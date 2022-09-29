@@ -19,8 +19,8 @@ url:                "https://faq.cue.band"
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
-    light:          logo-light.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
-    dark:           logo-dark.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
+    light:          image.png  # e.g. logo.png, upload logo image file to /assets/posts/ folder
+    dark:           logo_1.png  # e.g. logo.png, upload logo image file to /assets/posts/ folder
 
 # Author settings, displayed on about page
 # author:

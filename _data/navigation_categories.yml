@@ -3,13 +3,13 @@
 - heading: Browse All Topics
   categories:
     - title: Getting Started
-      desc: Get your account up and running in just few easy steps
+      desc: Get your Cue Band up and running in just few easy steps
       icon: settings
 
-    - title: Account and Billing
-      desc: Managing your account, creating new users and exporting data
-      icon: credit-card
+    - title: Study Information
+      desc: Know more about the Cue Band study
+      icon: info
 
-    - title: Troubleshooting
+    - title: Troubleshooting and Issues
       desc: Answers to most common configuration issues
       icon: cog

@@ -21,7 +21,7 @@ $alert-background: $global-muted-background !default;
 $alert-color: $global-color !default;
 $alert-close-top: $alert-padding + 5px !default;
 $alert-close-right: $alert-padding !default;
-$global-primary-background: #1e87f0 !default;
+$global-primary-background: #000045 !default; //#1e87f0 !default;
 $alert-primary-background: lighten(mix(white, $global-primary-background, 40%), 20%) !default;
 $alert-primary-color: $global-primary-background !default;
 $global-success-background: #32d296 !default;

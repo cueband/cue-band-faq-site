@@ -6,10 +6,10 @@
 
             {% if site.logo_image.light or site.logo_image.dark %}
               {% if site.logo_image.light %}
-                <img class="uk-logo-inverse" src="{{ site.post_assets | absolute_url }}{{ site.logo_image.light }}" alt="{{ site.title }}">
+                <img class="uk-logo-inverse" src="{{ site.post_assets | absolute_url }}{{ site.logo_image.light }}" alt="{{ site.title }}" style="width: auto; height: 50px;">
               {% endif %}
               {% if site.logo_image.dark %}
-                <img src="{{ site.post_assets | absolute_url }}{{ site.logo_image.dark }}" alt="{{ site.title }}">
+                <img src="{{ site.post_assets | absolute_url }}{{ site.logo_image.dark }}" alt="{{ site.title }}" style="width: auto; height: 50px;">
               {% endif %}
             {% else %}
               {{ site.title }}
