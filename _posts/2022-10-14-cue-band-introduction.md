@@ -61,7 +61,7 @@ Note: the display will automatically switch off after a short period of inactivi
 
 If `Cueing Disallowed` is shown, you are in a part of the study that does not allow cueing on the watch (such as during phone-only cueing, or the "wash-out" period).  Otherwise, the current cueing status will be shown, and you may tap the following buttons:
 
-* **Mute**: Temporarily pause cueing.  This will cancel any manual cueing.  If currently in a scheduled cueing interval, the pause duraiton will initially be for the remainder of the interval.  Press `+`/`-` buttons to adjust the duration, `x` to no longer pause cueing (this will resume any scheduled cueing).  Press the watch button to return to the previous screen.
+* **Mute**: Temporarily pause cueing.  This will cancel any manual cueing.  If currently in a scheduled cueing interval, the pause duration will initially be for the remainder of the interval.  Press `+`/`-` buttons to adjust the duration, `x` to no longer pause cueing (this will resume any scheduled cueing).  Press the watch button to return to the previous screen.
 
 * **Manual Cueing**: Temporarily cue on the watch.  This will start cueing on the watch for the specified time.  Press `+`/`-` buttons to adjust the duration, `x` to stop temporarily cueing, the cog icon to change the cueing settings.  Press the watch button to return to the previous screen.
 
