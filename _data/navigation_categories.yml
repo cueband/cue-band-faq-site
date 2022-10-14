@@ -13,3 +13,7 @@
     - title: Troubleshooting and Issues
       desc: Answers to most common configuration issues
       icon: cog
+
+    - title: Cue Band
+      desc: Using the Cue Band smartwatch
+      icon: clock
