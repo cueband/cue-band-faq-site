@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with your Cue Band smartwatch.
-categories: [Cue Band]
+categories: ["Cue Band", "Getting Started"]
 author: Dan Jackson
 ---
 
