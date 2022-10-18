@@ -120,7 +120,28 @@ function showContainer(id) {
 
 
 {% if page.cta %}
+
+
 <div  class="uk-container uk-container-small"><hr></div>
+<div class="uk-section-large uk-text-center">
+    <div class="uk-container uk-container-small">
+        <div data-uk-scrollspy="cls: uk-animation-slide-bottom-small; repeat: true">
+            <h2 class="section-title-primary">Do you have have any questions about the Cue Band technology or the study?</h2>
+            <p style="text-align: start;"> You can check if we have an answer in our <strong>Frequently Asked Questions site</strong>, if not then get in touch via email with our research team.</p>
+            <p style="text-align: start;">
+                For questions regarding your participation in the Cue Band study, please email <a href="mailto:contact@cue.band">contact@cue.band</a>
+            </p>
+            <p style="text-align: start;">
+                For Technical support or to report issues with your Cue Band device or app, please email <a href="mailto:support@cue.band">support@cue.band</a>
+            </p>   
+        </div>
+    </div>
+</div>
+
+
+
+
+<!--div  class="uk-container uk-container-small"><hr></div>
 <div class="uk-section-large uk-text-center">
     <div class="uk-container uk-container-small">
         <div data-uk-scrollspy="cls: uk-animation-slide-bottom-small; repeat: true">
@@ -129,5 +150,5 @@ function showContainer(id) {
             <a class="uk-button uk-button-primary uk-button-large uk-border-rounded uk-margin-small-top" href="{{ domain }}{{ page.cta.button_url }}">{{ page.cta.button_text }}</a>
         </div>
     </div>
-</div>
+</div-->
 {% endif %}
