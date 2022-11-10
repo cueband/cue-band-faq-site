@@ -1,8 +1,5 @@
 ---
-layout: post
 title: I’m unable to install the Cue Band application
-categories: [Troubleshooting and Issues]
-author: Luis Carvalho
 ---
 
 **Check which App Store you are using.**
