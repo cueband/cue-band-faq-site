@@ -6,7 +6,7 @@ If your Cue Band device displays "InfiniTime" on its screens do the following st
 
 1) Reset your Cue Band by pressing and holding the physical button on the side of the device until the screen blinks, and release the button.
 
-2) Now on the Cue Band on your phone, in the main page tap "Add Device".
+2) Now on the Cue Band App, on your phone, in the main page tap "Add Device".
 
 3) Wait for a device called "InfiniTime" to appear on the screen and tap it to associate it with your app.
 
