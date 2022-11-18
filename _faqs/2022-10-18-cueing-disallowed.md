@@ -2,7 +2,7 @@
 title: Cue Band displays 'Cueing Disallowed'
 ---
 
-If "Cueing Disallowed" is shown in the Cue Band, two things might be happenning:
+If "Cueing Disallowed" is shown in the Cue Band, two things might be happening:
 
 1. You are in trial study, and you are in a phase of the study where you cannot use cueing on the Cue Band.
 
