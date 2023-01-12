@@ -13,6 +13,7 @@ GEM
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
+    ffi (1.15.5)
     ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -80,6 +81,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-darwin-20
 
 DEPENDENCIES
   jekyll (~> 3.8)
@@ -92,7 +94,7 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 RUBY VERSION
-   ruby 3.1.3p185
+   ruby 3.1.0p0
 
 BUNDLED WITH
    2.3.26
